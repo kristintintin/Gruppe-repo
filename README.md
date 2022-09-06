@@ -1,6 +1,8 @@
 # Gruppe-repo
 Nhan Thomas Trong Nguyen, https://github.com/SSneakySnek.
 
+Endret dette 14.50
+
 for gruppe 10A - har klart å redigere dette...<br>
 2. setning.<br>
 3. setning.
