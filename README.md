@@ -1,10 +1,5 @@
 # Gruppe-repo
-
-Endret dette 14.50
-
-JSDJIDJSIJIDJfo
-
-
+<h1>Gruppe 10A</h1>
 
 |Nhan Thomas Trong Nguyen| Omar Passi  | Samet Demirezen | Håkon Hervold | Anastasia Katanova | Sander Halvorsen |
 | ----------- | ------------- | ------------- | ----------------- | -----------------| -------------- |
