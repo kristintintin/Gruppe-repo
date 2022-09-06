@@ -2,7 +2,7 @@
 
 Endret dette 14.50
 
-for gruppe 10A - har klart å redigere dette...<br>
+JSDJIDJSIJIDJfo
 
 
 |Nhan Thomas Trong Nguyen| Omar Passi  | Samet Demirezen | Håkon Hervold | Anastasia Katanova |
