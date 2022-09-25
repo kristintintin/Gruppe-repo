@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flag project</title>
+  </head>
+  <body>
+    <h1 style="font-family: verdana">Flaggprosjektet</h1>
+    <p style="font-size: 120%">Oppgave flagg</p>
+    <canvas
+      id="myCanvas"
+      width="700"
+      height="600"
+      style="border: 1px solid grey"
+      >Your browser does not support the canvas element.
+    </canvas>
+
+    <script>
+      var canvas = document.getElementById("myCanvas"); //Sweden
+      var ctx = canvas.getContext("2d");
+      ctx.beginPath(); 
+      ctx.fillStyle = "#004B87"; //Blue
+      ctx.rect(0, 253, 55, 50); //(x, y, l, b)
+      ctx.fill();
+
+      ctx.beginPath();
+      ctx.fillStyle = "#004B87"; // B
+      ctx.rect(0, 173, 55, 50); 
+      ctx.fill();
+
+      ctx.beginPath();
+      ctx.fillStyle = "#004B87"; // B
+      ctx.rect(86, 173, 100, 50);
+      ctx.fill();
+
+      ctx.beginPath();
+      ctx.fillStyle = "#004B87"; // B
+      ctx.rect(86, 253, 100, 50);
+      ctx.fill();
+
+      ctx.beginPath();
+      ctx.fillStyle = "#FFCD00"; //yellow
+      ctx.rect(0, 223, 186, 31);
+      ctx.fill();
+
+      ctx.beginPath();
+      ctx.fillStyle = "#FFCD00";
+      ctx.rect(55, 173, 31, 130);
+      ctx.fill();
+
+      var canvas = document.getElementById("myCanvas");
+      var ctx = canvas.getContext("2d");
+      ctx.font = "30px Arial";
+      ctx.fillStyle = "black";
+      ctx.fillText("Sverige", 30, 334);
+    </script>
+  </body>
+</html>
